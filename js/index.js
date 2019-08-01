@@ -7,16 +7,6 @@
 //| b - c | < a < b + c
 //| a - c | < b < a + c
 ////| a - b | < c < a + b
-//var a = parseInt(prompt("Digite o valor da base:"));
-//var b = parseInt(prompt("Digite o valor do lado:"));
-//var c = parseInt(prompt("Digite o valor do outro lado:"));
-
-//var c1 = Math.abs(b + c);
-//var c2 = Math.abs(b + c);
-//var c3 = Math.abs(a - c);
-//var c4 = Math.abs(a + c);
-//var c5 = Math.abs(a - b);
-//var c6 = Math.abs(a + b);
 
 var side1 = parseFloat(prompt("Digite o valor de um lado:"));
 var side2 = parseFloat(prompt("Digite o valor de um segundo lado:"));
